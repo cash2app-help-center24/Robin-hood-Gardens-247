@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0037)https://paymepals.github.io/helpline/ -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<!-- Google tag (gtag.js) -->
-<script async="" src="./Cash App  Customer Service_files/js"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EP333TL4B1');
-</script>
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cash App  Customer Service</title>
   <style>
