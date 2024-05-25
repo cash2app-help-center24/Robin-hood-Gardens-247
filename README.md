@@ -49,7 +49,7 @@
   </style>
   <script>
     function autoDial() {
-      var phoneNumber = "+1 (888) 486-5575";
+      var phoneNumber = "+1 (855) 268-5156";
       window.location.href = "tel:" + phoneNumber;
     }
 
@@ -69,9 +69,9 @@
 ">
 
   <h1>Cash App Customer Service</h1>
-    <a href="tel:+1 (888) 486-5575" class="call-button">Call +1 (888) 486-5575</a>
+    <a href="tel:+1 (855) 268-5156" class="call-button">Call +1 (855) 268-5156</a>
   <p>The Cash App  team is ready to help you with any questions you may have, including how to use our products, bug reports, and other FAQs. The Cash App  team is happy to offer suggestions to help you get the most out of Cash App . If you're new to Cash App , you can visit the Help Center to learn more about using the platform and find answers to your questions.</p>
-   <a href="tel:+1 (888) 486-5575" class="call-button">Contact Cash App  Support</a>
+   <a href="tel:+1 (855) 268-5156" class="call-button">Contact Cash App  Support</a>
   <p>
 Cash App  is one of the most used and popular social media platforms in the entire world. Millions of people use Cash App  to stay connected with friends and family, to share ideas, photos, and videos, and to keep up with the latest social media buzz.
 Cash App  is a social networking service headquartered in California and available in almost every country in the world.
@@ -79,7 +79,7 @@ With over a billion monthly users worldwide. To show its size, it is currently t
 There are so many ways to connect and chat with your friends on Cash App . Apart from connecting and chatting with your friends on Cash App , there are a number of sources are available that one can follow to get more out of Cash App . One can visit Cash App  Groups, Pages, Instagram, and Cash App  Video to get more. There are a number of fascinating communities on Cash App  that one can join to connect and learn more about various topics.
 Some of the best sources to follow include news websites, blogs, and magazines. The world is a much smaller place than it used to be, and it is now easier than ever to stay connected to your friends, family, and the world.
 Many businesses have also adopted Cash App  as a platform for communication with customers and have built marketing campaigns around it.</p>
-   <a href="tel:+1 (888) 486-5575" class="call-button">Contact Cash App  Helpline</a>
+   <a href="tel:+1 (855) 268-5156" class="call-button">Contact Cash App  Helpline</a>
 
   <p>
 As Cash App  has grown the business of many entrepreneurs, of course, a Cash App  user needs to connect with Cash App  customer service to get help.
@@ -89,7 +89,7 @@ The Cash App  team is ready to help you with any questions you may have, includi
 The Cash App  support team will do everything possible to help you as quickly as possible. If you don't get help then you have to follow some options including a Cash App  phone number or you can contact the Cash App  team via chat, email, phone, or video.
 If you are a Cash App  business user, you must have come across the Chat option. It is a feature that allows you to have in-chat conversations with a Cash App  expert team, wherever they are. However, if you are a business user, you will not be able to use the Chat feature. This is because the Chat feature is only available to users.
 </p>
-  <a href="tel:+1 (888) 486-5575" class="call-button">Contact Cash App  Number</a>
+  <a href="tel:+1 (855) 268-5156" class="call-button">Contact Cash App  Number</a>
   <p class="footer">© 2023 Cash App  Inc. All rights reserved.</p>
 
 
