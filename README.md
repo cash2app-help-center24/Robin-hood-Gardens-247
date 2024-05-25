@@ -1,15 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <link rel="icon" href="/favicon.svg">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Adsheil</title>
-    <script type="module" crossorigin src="/assets/index-b817cae7.js"></script>
-    <link rel="stylesheet" href="/assets/index-c4ac0d52.css">
-  </head>
-  <body>
-    <div id="app"></div>
-    
-  </body>
-</html>
+ Let's sit down together and figure out the best path for you to develop your brand. Our goal is to create designs that are attractive and help your business grow. In today's visual world, you need to make sure you communicate with images as well as you do with words. Let us help you build your visual story.
+ 
+
+Start Here
+About
+Privacy
+Shop
+Resources
+Contact
+DIY
+Recipes
+Simple Living
+Frugal Tips
+Ministries We Support
