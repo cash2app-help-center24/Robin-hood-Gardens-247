@@ -16,6 +16,9 @@
       'currency': 'USD'
   });
 </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Hosting Services </title>
+  <style>
 
 
 Work is under process 
