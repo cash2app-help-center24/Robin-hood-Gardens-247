@@ -67,8 +67,3 @@
   <script>
 
 
-Work is under process 
-Ministries We Support best digital Marketing
-Web hosting
-promote your bussiness 
-
