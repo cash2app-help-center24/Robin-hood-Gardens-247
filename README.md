@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16564534469">
 </script>
