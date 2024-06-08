@@ -1,6 +1,6 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RobinHood  Customer Service</title>
   <style>
     body {
@@ -93,10 +93,4 @@ If you are a Cash App  business user, you must have come across the Chat option.
 </p>
   <a href="tel:+1 (855) 268-5156” class="call-button">Contact Cash App  Number</a>
   <p class="footer">© 2023 Cash App  Inc. All rights reserved.</p>
-
-
-
-
-
-
 </body></html>
